@@ -95,3 +95,9 @@ In questo esempio, la rotta `/test` richiede un token JWT valido per accedere. I
 Il middleware utilizza `{ session: false }` con Passport, pertanto non viene mantenuta una sessione lato server.
 
 Per segnalare bug o suggerire miglioramenti, utilizza il sistema di Issues del repository GitHub.
+
+## Licenza
+
+Questo progetto è rilasciato sotto licenza MIT.
+
+Per i dettagli, consultare il file LICENSE.md.
